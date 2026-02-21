@@ -32,17 +32,17 @@ This project integrates a MySQL database with a PHP-powered web interface, suppo
 
 
 ## Project Components
-1. EERD (Enhanced Entity Relationship Diagram)
+- EERD (Enhanced Entity Relationship Diagram)
    - Designed using UML notation to represent entities such as Branch, Employee, Order, and Dependent with appropriate relationships and constraints.
 
-2. Database Design
+- Database Design
    - Database normalized to 3NF for efficiency.
    - Logical schema derived from EERD.
 
-3. SQL Implementation
+- SQL Implementation
    - MySQL scripts to create tables, set relationships (primary/foreign keys), and enforce constraints.
 
-4. Web Application (PHP + MySQL)
+- Web Application (PHP + MySQL)
    - Frontend: Simple, user-friendly interface with HTML/CSS and minimal JavaScript.
    - Backend: PHP for dynamic server-side operations and database connectivity.
    - CRUD functionalities: Fully implemented for all main entities.
