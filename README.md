@@ -1,4 +1,4 @@
-## Star Apparels – Office Management System
+# Star Apparels – Office Management System
 
 ## Project Overview
 The Star Apparels Office Management System is a web-based application designed to simplify operations across multiple branches of the leading private sector clothing company, **Star Apparels**. The system enables efficient management of employees, orders, and projects while maintaining accurate records for personnel and dependents for insurance purposes.
