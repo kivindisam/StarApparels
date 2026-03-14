@@ -56,7 +56,7 @@ This project integrates a MySQL database with a PHP-powered web interface, suppo
   - MySQL Workbench (Database Design)
   - XAMPP / WAMP (Local Server for PHP + MySQL)
 
-## Contributers 
+## Team 
 - Kivindi Samarawickrama
 - Hasara Wijayarathena
 - Dahami Dissanayake
